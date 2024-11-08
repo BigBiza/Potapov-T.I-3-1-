@@ -1,0 +1,3 @@
+interface Graphics {
+    void draw();
+}
